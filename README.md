@@ -11,6 +11,7 @@ The very first thing you need to do is setup your computer. This means you will 
 
 ##### 1. Ensure your laptop up to the task of coding
 
+  - Has the latest version of Google Chrome ([download](https://www.google.com/chrome/browser/desktop/))
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
   - Has a functioning screen, keyboard, and trackpad
@@ -25,6 +26,7 @@ The very first thing you need to do is setup your computer. This means you will 
 
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
+ - Have [Atom](https://atom.io/) installed
  - Be able to receive a valid response when typing "git --version"
 
 ##### 3. Download and Install Slack
