@@ -26,7 +26,7 @@ The very first thing you need to do is setup your computer. This means you will 
 
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
- - Have [Atom](https://atom.io/) installed
+ - Have [Visual Studio Code](https://code.visualstudio.com/download) installed
  - Be able to receive a valid response when typing "git --version"
 
 ##### 3. Download and Install Slack
