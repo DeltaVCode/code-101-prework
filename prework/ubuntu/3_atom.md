@@ -1,8 +1,14 @@
-### Install Atom
+### Install Visual Studio
 
-1. Download the `atom-amd64.deb` package from the <a href="https://github.com/atom/atom/releases/latest" target="_blank">Atom releases page</a>.
-2. Open your Terminal, navigate to the directory where you downloaded the package, and run `sudo dpkg --install atom-amd64.deb`.
-3. Launch Atom using the installed `atom` command.
+Documentation https://code.visualstudio.com/docs/setup/linux
+
+1. Download the `.deb	64 bit` package from the <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio for ubuntu</a>.
+
+2. Open your Terminal, navigate to the directory where you downloaded the package, and run `sudo snap install --classic code # or code-insiders `.
+ <a href="https://code.visualstudio.com/docs/setup/linux" target="_blank">Set Up Instructions</a>.
+
+
+3. Launch Visual Studio using the installed `code .` command.
 
 The Linux version does not currently automatically update so you will need to
 repeat these steps to upgrade to future releases.

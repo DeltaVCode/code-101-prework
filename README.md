@@ -26,9 +26,8 @@ The very first thing you need to do is setup your computer. This means you will 
 
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
- - Have [Atom](https://atom.io/) installed
- - Be able to receive a valid response when typing "git --version"
-
+ - Have Visual Code installed https://code.visualstudio.com/download
+ 
 ##### 3. Download and Install Slack
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
