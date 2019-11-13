@@ -25,7 +25,7 @@ The very first thing you need to do is setup your computer. This means you will 
   - [Windows](prework/windows/1_terminal.md)
 
 Following completion of these Pre-work assignments, you should:
- - Have a terminal with a Git compatible prompt
+ 
  - Have Visual Code installed https://code.visualstudio.com/download
  
 ##### 3. Download and Install Slack
